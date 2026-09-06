@@ -2,7 +2,7 @@
 
 ## Digital accessibility and accessibility-focused QA
 
-I combine a BSc (Hons) in Computing and IT with frontline NHS and digital-inclusion experience. I focus on making web products easier to use through standards-based reviews, assistive-technology testing, and practical findings that developers can act on.
+I combine a background in software development with expertise in digital accessibility. I focus on making web products easier to use through standards-based reviews, assistive technology testing, and practical findings that developers can act on.
 
 ### What I work with
 
